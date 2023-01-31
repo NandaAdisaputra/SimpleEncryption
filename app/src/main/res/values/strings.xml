@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleEncryption</string>
+    <!--TODO ADD RESOURCE STRING  -->
+    <string name="username">username</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+</resources>
